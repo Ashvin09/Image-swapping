@@ -1,0 +1,28 @@
+<style>
+body{
+font-family: "Times New Roman", Georgia, Serif;
+}
+
+.lightBox {
+width: 380px;
+height: 318px;
+display: block;
+padding: 10px;
+margin-left : 31%;
+-webkit-box-shadow: 0px 0px 5px #444444;
+background: #ffffff;
+}
+
+img {
+width:  49%;
+height: 50%;
+}
+
+.input{
+float: left;
+margin-left: 41%;
+margin-top: 2%;
+}
+</style>
+
+
